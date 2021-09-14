@@ -1,0 +1,44 @@
+* {
+  margin: 0%;
+  box-sizing: border-box;
+  padding: 0%;
+}
+body {
+  background-color: #4f4f4f;
+}
+#s1 {
+  color: darkblue;
+  background-color: rgb(207, 151, 128);
+  text-align: justify;
+  border: 3px solid rgb(16, 13, 219);
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-left: 10% !important;
+  padding: 4%;
+  border-radius: 5%;
+}
+#s2 {
+  text-align: center;
+  color: rgb(24, 163, 156);
+  background-color: brown;
+  border: 5% dotted gold;
+  margin: 7%;
+  margin-left: 60% !important;
+  margin-right: 60% !important;
+}
+#s3 {
+  text-align: center;
+  color: rgb(24, 163, 156);
+  background-color: brown;
+  border: 20% dotted gold;
+  margin: 5%;
+  margin-left: 40% !important;
+  margin-right: 70% !important;
+}
+#copy {
+  color: #fff;
+  text-align: center;
+  border: 6% dotted coral;
+  margin-left: 80%;
+  margin-right: 80%;
+}
